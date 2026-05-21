@@ -1,4 +1,4 @@
-# backend-em-insert — Aplicativo completo
+# backend-em-csv — Aplicativo completo
 
 ## Descrição
 
@@ -31,7 +31,7 @@ Criação automática do banco db_em, caso ele não exista
 ## Estrutura do projeto
 
 ```text
-backend-em-insert
+backend-em-csv
 ├── data
 │   └── leituras.csv
 ├── src
